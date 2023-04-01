@@ -174,7 +174,7 @@ footer {
 
 
 ### Tampilan Home :
-<img src="home.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="Lab4Web-master\imeg\home.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 <br><br>
 
@@ -184,7 +184,7 @@ footer {
 <br><br>
 
 ### Tampilan Contact :
-<img src="contact.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="Lab4Web-master\imeg\contact.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 <br><br>
 
@@ -508,17 +508,17 @@ if ($conn == false) {
 ?>
 ```
 ### Tampilan data barang :
-<img src="databarang.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="Lab4Web-master\imeg\databarang.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 <br><br>
 
 ### Tampilan tambah :
-<img src="tambah.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="Lab4Web-master\imeg\tambah.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 <br><br>
 
 ### Tampilan ubah :
-<img src="ubah.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="Lab4Web-master\imeg\ubah.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 <br><br>
 
