@@ -1,13 +1,13 @@
 # Lab4web
 # PROJECT PRAKTIKUM 4 (KONSEP MODULAR SRTA IMPLEMENTASI KE PRAKTIKUM SEBELUMNYA)
 
-**Nama: Arjun Syah** <br/>
-**Nim : 312110102** <br/>
+**Nama   : Arjun Syah** <br/>
+**Nim   : 312110102** <br/>
 **Kelas : TI.21.A3** <br/>
 
 <br/>
 
-## **Membuat file header.php
+## **Membuat file header.php**
 
 ### Code :
 ```
@@ -179,7 +179,7 @@ footer {
 <br><br>
 
 ### Tampilan About :
-<img src="about.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="Lab4Web-master\imeg\about.JPG" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 <br><br>
 
