@@ -1,0 +1,69 @@
+/* Keseluruhan desain styling */
+
+h1 {
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  background:#1fb811;
+  width: 45%;
+  text-align: center ;
+  padding-inline: 413px;
+  padding-top: 20px;
+  padding-bottom: 19px;
+  margin-top: 0px;
+  margin-bottom: 4px;
+
+}
+
+h2 {
+  color: #224bc3;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 20%;
+  text-align: left;
+}
+
+nav {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 5px;
+  display: block;
+  background: rgb(8, 218, 78);;
+}
+nav a {
+  padding: 15px 30px;
+  display: inline-block;
+  color: #ffffff;
+  font-size: 14px;
+  text-decoration: none;
+  font-weight: bold;
+}
+nav a.active,
+nav a:hover {
+  background-color: #368b6f;
+}
+
+.content {
+  background-color: #d4d4d4;
+  padding: 50px 20px;
+  padding-bottom: 253px;
+ 
+  
+}
+.content h1 {
+  margin-bottom: 20px;
+  font-size: 35px;
+}
+.content p {
+  margin-bottom: 20px;
+  font-size: 20px;
+  line-height: 25px;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+  background-color:#1fb811;
+  padding: 20px;
+  color: #eee;
+  border-radius: 5px;
+  font-family: "Raleway SemiBold", sans-serif;
+  margin-top: 5px ;
+}
